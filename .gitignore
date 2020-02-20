@@ -1,0 +1,9 @@
+py3
+runscript.py
+*.swp
+__pycache__*
+*.pyc
+build
+src/sendgmail/authfiles
+*.egg*
+
