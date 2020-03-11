@@ -24,6 +24,6 @@ Place credential.json in the following folder:
 >>> message = create_message(to = "example@email.com", subject = "example", message_text = "example text")
 >>> send_message(user, message)
     
-Installation
+Installation (NOT UPLOADED YET)
 ============
 ``pip install sendgmail``
